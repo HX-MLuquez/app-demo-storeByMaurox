@@ -1,0 +1,15 @@
+.txt{
+    color: aliceblue;
+    margin-left: 120px;
+    text-decoration: none;
+}
+.detail{
+    margin-top: 80px;
+    display: flex;
+}
+.imgD{
+    width: 200px;
+    height: auto;
+    margin-left: 60px;
+    
+}

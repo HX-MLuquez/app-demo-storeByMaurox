@@ -1,0 +1,8 @@
+.search{
+    background-color: rgba(103, 164, 216, 0.693);
+    padding: 2px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

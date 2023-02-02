@@ -1,0 +1,16 @@
+.nav{
+    background-color: rgba(8, 75, 71, 0.769);
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    border: 2px solid rgb(84, 173, 143);
+    padding: 8px;
+    border-radius: 4px;
+}
+button{
+    color: rgb(4, 102, 61);
+}
+
+.bttn{
+    margin-right: 40px;
+}

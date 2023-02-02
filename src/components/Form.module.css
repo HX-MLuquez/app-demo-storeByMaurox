@@ -1,0 +1,79 @@
+.container {
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 10%;
+    left: 30px;
+    background-color: rgba(22, 7, 109, 0.725);
+    border-radius: 4px;
+    margin-left: 10%;
+    padding: 18px;
+}
+
+.container h1 {
+    font-size: 3rem;
+    color: #0c6f96;
+    margin: 0 0 10px 0;
+}
+
+.container .form_group {
+    margin: 30px 0 30px 0;
+}
+
+.container .form_group label {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: rgb(223, 226, 237);
+}
+
+.container .form_group input {
+    margin: 5px 0;
+    padding-left: 5px;
+    height: 40px;
+    width: 80%;
+    border: 0;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    transition: 0.5s ease;
+}
+
+.container .form_group input:focus {
+    border-bottom: 2px solid #0c6f96;
+}
+
+.container a {
+    color: #0c6f96;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.container button {
+    margin: 20px 0;
+    padding: 10px 40px;
+    display: inline-block;
+    border: 0;
+    outline: none;
+    background: linear-gradient(to left, #0c6f96, #fff);
+    font-size: 18px;
+    color: #111;
+    font-weight: 400;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+.container button:hover {
+    background: linear-gradient(to right, #0c6f96, #fff);
+}
+
+.danger {
+    font-size: 14px;
+    color: rgb(92, 2, 2);
+    margin-left: 10em;
+    font-weight: bold;
+}
+
+.warning{
+    font-size: 10px;
+}

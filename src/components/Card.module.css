@@ -1,0 +1,43 @@
+.upbar_card{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    border-radius: 3px;
+    margin: 1px;
+    
+}
+
+.card{
+    border: 3px solid rgba(235, 223, 235, 0.465);
+    width: 180px;
+    border-radius: 6px;
+    padding: 2px;
+    margin: 8px;
+    background-color: rgba(8, 97, 8, 0.769);
+    text-align: right;
+}
+img{
+    width: 100%;
+}
+.txt{
+    text-align: center;
+    color: aliceblue;
+    padding: 1px;
+    margin: 1px;
+    
+}
+.linki{
+    text-decoration-line: none;
+    color: rgb(18, 28, 23);
+}
+.bttn{
+    background-color: rgb(173, 193, 187);
+    border-radius: 2px;
+    border: solid 1.5px;
+    border-color: rgb(187, 236, 217);
+    cursor: pointer;
+    color: rgb(88, 41, 16);
+    font-weight: bold;
+    font-size: 60%;
+    
+}
